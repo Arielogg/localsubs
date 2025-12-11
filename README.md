@@ -59,9 +59,3 @@ Edit `config.py` or set environment variables:
                                                                  └─────────────┘
 ```
 
-## Tips for Best Results
-
-1. **Microphone placement**: Place the mic centrally, equidistant from all speakers
-2. **Quiet environment**: Minimize background noise
-3. **Speaker discipline**: Encourage speakers to not talk over each other
-4. **Test beforehand**: Run a test session to calibrate audio levels
