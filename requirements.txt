@@ -1,0 +1,17 @@
+# Audio processing
+sounddevice>=0.4.6
+numpy>=1.24.0
+
+# Speech recognition & translation
+faster-whisper>=1.0.0
+
+# Voice Activity Detection
+silero-vad>=5.1
+
+# Web server & real-time communication
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+websockets>=12.0
+
+# Utilities
+python-dotenv>=1.0.0

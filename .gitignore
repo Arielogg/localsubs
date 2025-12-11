@@ -1,0 +1,36 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment variables
+.env
+
+# Logs
+*.log
+subtitle_server.log
+
+# Runtime files
+.subtitle_server.pid
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model cache
+.cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
